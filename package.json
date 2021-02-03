@@ -1,0 +1,52 @@
+{
+  "name": "automatic-versioning-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release:test": "dotenv -- semantic-release",
+    "release:generate": "dotenv -- semantic-release --dry-run false"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woohsian/automatic-versioning-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woohsian/automatic-versioning-test/issues"
+  },
+  "homepage": "https://github.com/woohsian/automatic-versioning-test#readme",
+  "release": {
+    "branches": [
+      "main",
+      "master"
+    ],
+    "tagFormat": "ABC-v${version}",
+    "ci": false,
+    "debug": true,
+    "plugins": [
+      [
+        "@semantic-release/commit-analyzer",
+        {
+          "preset": "eslint"
+        }
+      ],
+      "@semantic-release/release-notes-generator",
+      [
+        "@semantic-release/changelog",
+        {
+          "changelogFile": "CHANGELOG.md"
+        }
+      ]
+    ],
+    "dryRun": true
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "conventional-changelog-eslint": "^3.0.9",
+    "dotenv-cli": "^4.0.0",
+    "semantic-release": "^17.3.7"
+  }
+}
