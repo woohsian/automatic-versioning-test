@@ -1,3 +1,10 @@
+## [0.3.1](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.3.0...ABC-v0.3.1) (2021-02-04)
+
+
+### Fix
+
+* README update ([b25863f](https://github.com/woohsian/automatic-versioning-test/commit/b25863f0a8b153cd25ab8a2eb76672d2b4dffb2c))
+
 # [0.3.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.2.0...ABC-v0.3.0) (2021-02-04)
 
 
