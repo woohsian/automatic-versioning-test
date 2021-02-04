@@ -1,3 +1,16 @@
+Changelog
+
+New line test
+
+Another new line
+
+# [0.4.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.3.1...ABC-v0.4.0) (2021-02-04)
+
+
+### New
+
+* Test changelogTitle ([f369365](https://github.com/woohsian/automatic-versioning-test/commit/f3693652f55dfc2f41ec7945cd2efe3ef6c30b00))
+
 ## [0.3.1](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.3.0...ABC-v0.3.1) (2021-02-04)
 
 
