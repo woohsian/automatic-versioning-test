@@ -23,3 +23,7 @@ Tag: Short description (fixes #1234)
 
 Longer description here if necessary
 ```
+
+### Pull request
+
+Need to use the `rebase` strategy for completing pull requests
