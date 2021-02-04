@@ -1,3 +1,14 @@
+# [0.3.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.2.0...ABC-v0.3.0) (2021-02-04)
+
+
+### Fix
+
+* Fix incompatible plugins ([1df3d3a](https://github.com/woohsian/automatic-versioning-test/commit/1df3d3aebe729a11d2237f6ebfee1682ef56a69d))
+
+### New
+
+* Add helper function ([f8bbad3](https://github.com/woohsian/automatic-versioning-test/commit/f8bbad3821280be1d492a48ee1816af5c2a4cc85))
+
 ## [0.2.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.1.0...ABC-v0.2.0) (2021-02-04)
 
 ## [0.1.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.0.1...ABC-v0.1.0) (2021-02-04)
