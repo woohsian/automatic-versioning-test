@@ -1,3 +1,5 @@
+## [0.2.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.1.0...ABC-v0.2.0) (2021-02-04)
+
 ## [0.1.0](https://github.com/woohsian/automatic-versioning-test/compare/ABC-v0.0.1...ABC-v0.1.0) (2021-02-04)
 
 
